@@ -1,0 +1,17 @@
+C:\Users\dodis\source\repos\Pexeso\Pexeso\bin\Debug\net6.0-windows\Pexeso.exe
+C:\Users\dodis\source\repos\Pexeso\Pexeso\bin\Debug\net6.0-windows\Pexeso.deps.json
+C:\Users\dodis\source\repos\Pexeso\Pexeso\bin\Debug\net6.0-windows\Pexeso.runtimeconfig.json
+C:\Users\dodis\source\repos\Pexeso\Pexeso\bin\Debug\net6.0-windows\Pexeso.dll
+C:\Users\dodis\source\repos\Pexeso\Pexeso\bin\Debug\net6.0-windows\Pexeso.pdb
+C:\Users\dodis\source\repos\Pexeso\Pexeso\obj\Debug\net6.0-windows\Pexeso.csproj.AssemblyReference.cache
+C:\Users\dodis\source\repos\Pexeso\Pexeso\obj\Debug\net6.0-windows\Pexeso.Form1.resources
+C:\Users\dodis\source\repos\Pexeso\Pexeso\obj\Debug\net6.0-windows\Pexeso.csproj.GenerateResource.cache
+C:\Users\dodis\source\repos\Pexeso\Pexeso\obj\Debug\net6.0-windows\Pexeso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dodis\source\repos\Pexeso\Pexeso\obj\Debug\net6.0-windows\Pexeso.AssemblyInfoInputs.cache
+C:\Users\dodis\source\repos\Pexeso\Pexeso\obj\Debug\net6.0-windows\Pexeso.AssemblyInfo.cs
+C:\Users\dodis\source\repos\Pexeso\Pexeso\obj\Debug\net6.0-windows\Pexeso.csproj.CoreCompileInputs.cache
+C:\Users\dodis\source\repos\Pexeso\Pexeso\obj\Debug\net6.0-windows\Pexeso.dll
+C:\Users\dodis\source\repos\Pexeso\Pexeso\obj\Debug\net6.0-windows\ref\Pexeso.dll
+C:\Users\dodis\source\repos\Pexeso\Pexeso\obj\Debug\net6.0-windows\Pexeso.pdb
+C:\Users\dodis\source\repos\Pexeso\Pexeso\obj\Debug\net6.0-windows\Pexeso.genruntimeconfig.cache
+C:\Users\dodis\source\repos\Pexeso\Pexeso\obj\Debug\net6.0-windows\refint\Pexeso.dll
